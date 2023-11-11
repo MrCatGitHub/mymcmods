@@ -1,5 +1,5 @@
 # mymcmods
 all my minecraft mods are in this repo.
-no pull requests please!
+pull requests welcome!
 Enjoy!
 ######	**_© 2023 Mr. Cat_**
